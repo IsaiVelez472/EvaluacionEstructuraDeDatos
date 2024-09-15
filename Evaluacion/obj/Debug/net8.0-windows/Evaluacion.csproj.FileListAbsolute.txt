@@ -1,0 +1,16 @@
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\bin\Debug\net8.0-windows\Evaluacion.exe
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\bin\Debug\net8.0-windows\Evaluacion.deps.json
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\bin\Debug\net8.0-windows\Evaluacion.runtimeconfig.json
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\bin\Debug\net8.0-windows\Evaluacion.dll
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\bin\Debug\net8.0-windows\Evaluacion.pdb
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.Form1.resources
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.csproj.GenerateResource.cache
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.AssemblyInfoInputs.cache
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.AssemblyInfo.cs
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.dll
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\refint\Evaluacion.dll
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.pdb
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\Evaluacion.genruntimeconfig.cache
+C:\Users\isaiv\source\repos\Evaluacion\Evaluacion\obj\Debug\net8.0-windows\ref\Evaluacion.dll
